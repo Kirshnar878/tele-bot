@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1xEbCCiM-jmely4V7zXWhoSAjLpqB87Er
 """
 
-!pip install --force-reinstall python-telegram-bot==20.8 google-genai gspread oauth2client nest_asyncio requests
 
 import os
 import logging
