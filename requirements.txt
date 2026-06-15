@@ -1,3 +1,6 @@
-python-telegram-bot
+python-telegram-bot==20.8
 google-genai
+gspread
+oauth2client
 nest-asyncio
+requests
